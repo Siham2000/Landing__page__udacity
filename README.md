@@ -14,8 +14,9 @@
 
 
 ## Description
- landing-page is a project to manipulate the **DOM** and practise what you know i na right way
-
+  The landing page is a project to manipulate the **DOM** and practice what you learn about the **DOM**
+  
+  
 #### [Back To The Top](#landing-page-project)
  ----------- 
 
