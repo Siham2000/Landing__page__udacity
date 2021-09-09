@@ -56,7 +56,7 @@ window.addEventListener("scroll", () => {
 
 // Build menu
 
-const cretListNav = () => {
+const cretListNav =( () => {
   let listContanier = document.createDocumentFragment();
   allSections.forEach((section) => {
     // creat the list item
@@ -82,7 +82,7 @@ const cretListNav = () => {
 
   // add all the list item
   navbarList.appendChild(listContanier);
-}();
+})();
 
 
 
